@@ -33,6 +33,9 @@ The Plant Monitoring System is a project designed to monitor and manage the heal
 ## Installation and Setup
 
 1. Clone this repository to your local environment.
+   ```sh
+   git clone https://github.com/AndreiRaducanu/Plant-Monitoring-System.git
+   ```
 2. Set up the necessary hardware components and connect them to your Arduino board.
 3. Install the required libraries in the Arduino IDE.
 4. Configure the Arduino code with your WiFi/Ethernet credentials and cloud service settings.
