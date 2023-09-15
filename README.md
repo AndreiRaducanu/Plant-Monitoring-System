@@ -4,7 +4,7 @@
 
 The Plant Monitoring System is a project designed to monitor and manage the health of your plants using Arduino, I2C communication, and cloud connectivity. This system collects data such as temperature, humidity, and more from sensors and sends it to the cloud, allowing you to remotely access and control your plants' environment.
 
-![Overview](images/Overview.png)
+![Overview](images/Overview.PNG)
 
 ## Features
 
